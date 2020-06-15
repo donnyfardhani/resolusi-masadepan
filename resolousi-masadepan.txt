@@ -3,3 +3,7 @@ RESOLUSI MASADEPAN :
 - Pelajari basic php, css, javascript
 - Pelajari framework lavarel, code igniter dll
 - Pelajari database dan integrasinya
+
+Referensi :
+- Web Programming UNPAS
+- Kawan Koding
