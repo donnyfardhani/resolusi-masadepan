@@ -2,7 +2,7 @@ RESOLUSI MASADEPAN :
 - Konsisten belajar web development
 - Pelajari basic php, css, javascript
 - Pelajari framework lavarel, code igniter dll
-- Pelajari database dan integrasinya
+- Pelajari mySQL dan integrasinya
 
 Referensi :
 - Web Programming UNPAS
